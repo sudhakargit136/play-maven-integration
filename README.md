@@ -10,3 +10,4 @@ A sample project showing how to integrate a [Play Framework](http://www.playfram
 * Allows building/testing/running thru `mvn`
 * Allows building/testing/running thru `play`
 * Access all the special play commands thru maven
+this is my jenkin
